@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://gitlab.com/mohamedmehdigara">My Gitlab</a>![gitlab](https://user-images.githubusercontent.com/47916299/148037968-3d22a1c6-d3fa-4f9c-b439-2e0759a0d25f.png)
+<a href="https://gitlab.com/mohamedmehdigara">My Gitlab</a>
 
 <br>
-<a href="https://bitbucket.org/Mohamed-Mehdi-Gara/">My bitbucket</a> ![download](https://user-images.githubusercontent.com/47916299/148038544-81682cb1-ef57-4d64-a457-fd006af43919.png)
+<a href="https://bitbucket.org/Mohamed-Mehdi-Gara/">My bitbucket</a>
 
 
