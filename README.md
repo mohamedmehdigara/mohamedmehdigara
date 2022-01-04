@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://gitlab.com/mohamedmehdigara">My Gitlab</a> ![This is an image](https://www.facebook.com/gitlab/photos/a.427250510668082/4231495976910164/)
+<a href="https://gitlab.com/mohamedmehdigara">My Gitlab</a> (https://www.facebook.com/gitlab/photos/a.427250510668082/4231495976910164/)
 <br>
 <a href="https://bitbucket.org/Mohamed-Mehdi-Gara/">My bitbucket</a>
