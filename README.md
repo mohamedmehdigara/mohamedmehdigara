@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://gitlab.com/mohamedmehdigara">My Gitlab</a>
-
-<br>
 <a href="https://bitbucket.org/Mohamed-Mehdi-Gara/">My bitbucket</a>
 
 
