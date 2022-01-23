@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://try.gitea.io/mohamedmehdigara">My Gitea</a>
 ![download](https://user-images.githubusercontent.com/47916299/148038951-0f25adc0-2f48-491d-a696-fa4e045b48c0.png)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/mohamedmehdigara/mohamedmehdigara/edit/main/README.md)
 
 
 
