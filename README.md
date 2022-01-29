@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 <a href="https://bitbucket.org/Mohamed-Mehdi-Gara/">My bitbucket</a>
 
 <a href="https://try.gitea.io/mohamedmehdigara">My Gitea</a>
+
+![download](https://user-images.githubusercontent.com/47916299/148038951-0f25adc0-2f48-491d-a696-fa4e045b48c0.png)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmehdigara&show_icons=true&locale=en&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true)
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-![download](https://user-images.githubusercontent.com/47916299/148038951-0f25adc0-2f48-491d-a696-fa4e045b48c0.png)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmehdigara&show_icons=true&locale=en&layout=compact)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true)
-
 
 
 
