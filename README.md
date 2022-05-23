@@ -1,6 +1,6 @@
 ### Hi there 👋. I work with HTML5, CSS3, Javascript and its libraries and frameworks like Meteor, Electron, React and Vue, Python and its libraries and frameworks like Django and Flask, PHP and its libraries and Frameworks like Laravel, Ruby, C, C# and its libraries and frameworks like .NET, C++, Golang, Google Cloud Platform GCP ... 👋
 
-### To take care of my computer because it is slow,  I recently just work with HTML, CSS, and Javascript (Only React, Node, and Vue) 
+### To take care of my computer because it is slow,  I recently just work with HTML, CSS, and Javascript (Only React and Node) 
 
 <!--
 **mohamedmehdigara/mohamedmehdigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
