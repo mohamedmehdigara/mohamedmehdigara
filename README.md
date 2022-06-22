@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmehdigara&show_icons=true&locale=en&layout=compact&langs_count=50&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true&theme=radical)
 [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedmehdigara&theme=radical)](https://github.com/mohamedmehdigara/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmehdigara&repo=github-readme-stats)](https://github.com/mohamedmehdigara/github-readme-stats)
 
 
 
