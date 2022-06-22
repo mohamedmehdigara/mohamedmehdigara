@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![download](https://user-images.githubusercontent.com/47916299/148038951-0f25adc0-2f48-491d-a696-fa4e045b48c0.png)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmehdigara&show_icons=true&locale=en&layout=compact)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara)](https://github.com/mohamedmehdigara/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true)
 
 
 ## 🧰 Languages and Tools:
