@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![download](https://user-images.githubusercontent.com/47916299/148038951-0f25adc0-2f48-491d-a696-fa4e045b48c0.png)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmehdigara&show_icons=true&locale=en&layout=compact&langs_count=50&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true&theme=radical)
-[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedmehdigara&theme=radical)](https://github.com/mohamedmehdigara/mohamedmehdigara)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedmehdigara&theme=radical&Cache-Control: no-cache)](https://github.com/mohamedmehdigara/mohamedmehdigara)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmehdigara&repo=mohamedmehdigara&theme=radical)](https://github.com/mohamedmehdigara/mohamedmehdigara)
 
 
