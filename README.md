@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedmehdigara&show_icons=true&theme=radical)
 [![Your Repository's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedmehdigara&theme=radical&Cache-Control=no-cache)](https://github.com/mohamedmehdigara/mohamedmehdigara)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmehdigara&repo=mohamedmehdigara&theme=radical)](https://github.com/mohamedmehdigara/mohamedmehdigara)
+[![wakatime](https://wakatime.com/badge/user/dc8452f4-4528-440c-adf1-4e5859ea9cce.svg)](https://wakatime.com/@dc8452f4-4528-440c-adf1-4e5859ea9cce)
 
 
 
