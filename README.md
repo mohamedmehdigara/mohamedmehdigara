@@ -1,4 +1,4 @@
-### Hi there 👋. I work with HTML5, CSS3, Javascript and its libraries and frameworks like Meteor, Electron, React, Node and Vue, Python and its libraries and frameworks like Django and Flask, PHP and its libraries and Frameworks like Laravel, Ruby, C, C# and its libraries and frameworks like .NET, C++, Golang, Google Cloud Platform GCP ... 👋
+### Hi there 👋. I work with HTML5, CSS3, Javascript and its libraries and frameworks like  Electron, React, Node and Vue, Python and its libraries and frameworks like Django and Flask, PHP and its libraries and Frameworks like Laravel, Ruby, C, C#, C++, Golang, Google Cloud Platform GCP ... 👋
 
 
 <!--
