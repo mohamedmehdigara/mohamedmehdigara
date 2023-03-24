@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end, back-end, and full stack development using these technologies 
-=======> [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,babel,bootstrap,d3,django,electron,express,flask,gcp,git,go,graphql,jquery,laravel,materialui,mysql,nestjs,nextjs,nodejs, nuxtjs,php,powershell, react,redux,sass,vue,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,django,express,flask,graphql,jquery,laravel,mysql,nestjs,nodejs, react,vue)](https://skillicons.dev)
 
 <!--
 **mohamedmehdigara/mohamedmehdigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
