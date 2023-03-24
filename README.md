@@ -1,5 +1,5 @@
-### Hi there 👋. I work with HTML5, CSS3, Javascript and its libraries and frameworks like  Electron, React, Node and Vue, Python and its libraries and frameworks like Django and Flask, PHP and its libraries and Frameworks like Laravel, Ruby, C, C#, C++, Golang, Google Cloud Platform GCP ... 👋
-
+### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end, back-end, and full stack development using these technologies 
+=======> [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,babel,bootstrap,d3,django,electron,express,flask,gcp,git,go,graphql,jquery,laravel,materialui,mysql,nestjs,nextjs,nodejs, nuxtjs,php,powershell, react,redux,sass,vue,webpack)](https://skillicons.dev)
 
 <!--
 **mohamedmehdigara/mohamedmehdigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
