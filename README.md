@@ -1,9 +1,5 @@
-### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end, back-end, and full stack development using these technologies 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,django,express,flask,graphql,jquery,laravel,mysql,nestjs,nodejs, react,vue" />
-  </a>
-</p>
+### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end, back-end, and full stack development 
+
 <!--
 **mohamedmehdigara/mohamedmehdigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +34,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,django,express,flask,graphql,jquery,laravel,mysql,nestjs,nodejs, react,vue" />
+  </a>
 </p>
 
 
