@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,vue,angular,express,jquery,nestjs,nextjs,nuxtjs,graphql,django,flask,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,vue,angular,express,jquery,nextjs,graphql" />
   </a>
 </p>
 
