@@ -1,4 +1,4 @@
-### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end, back-end, and full stack development 
+### Hi there 👋. I am Mohamed Mehdi Gara. I work with front-end development 
 
 <!--
 **mohamedmehdigara/mohamedmehdigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
